@@ -1,6 +1,6 @@
 Hi, I'm Deepthi 
  **AI/ML student transitioning into robotics | Learning by building**
- Bengaluru, India |  deepthia2005@gmail.com
+ | Bengaluru, India |  deepthia2005@gmail.com
 ---
 ## What I'm working on right now:
 -  **RL Trajectory Simulator** — physics-based simulation using Reinforcement Learning
@@ -16,8 +16,8 @@ Hi, I'm Deepthi
 | Linux | Reinforcement Learning | Object Detection | — |
 ---
 ## Projects:
-1. **[Basketball RL Simulation]((https://github.com/Deepthi-A-2005/basketball_zip))** — RL agent optimising trajectory in a physics engine
-2. **[Data Visualization]((https://github.com/Deepthi-A-2005/DataVisualization))** — Visualized data in the form of charts and maps
+1. **Basketball RL Simulation** — RL agent optimising trajectory in a physics engine
+2. **Data Visualization** — Visualized data in the form of charts and maps
 3. **Next up: ROS2 navigation stack in Gazebo**
 ---
 ## I'm looking for:
