@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**Deepthi-A-2005/Deepthi-A-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Deepthi 
+ **AI/ML student transitioning into robotics | Learning by building**
+ Bengaluru, India |  deepthia2005@gmail.com
+---
+## What I'm working on right now:
+-  **RL Trajectory Simulator** — physics-based simulation using Reinforcement Learning
+(PyTorch)
+-  **YOLOv8 Object Detection** — training and testing detection pipelines with OpenCV
+- **Learning ROS2 + Gazebo** — studying robot navigation and sensor simulation
+---
+## Tech Stack:
+| Learning (Robotics) | ML / DL | Vision | Languages |
+|---------------------|---------|--------|-----------|
+| ROS2 (in progress) | PyTorch | OpenCV | Python |
+| Gazebo (in progress) | Scikit-learn | YOLOv8 | C++ (learning) |
+| Linux | Reinforcement Learning | Object Detection | — |
+---
+## Projects:
+1. **[Basketball RL Simulation](link)** — RL agent optimising trajectory in a physics engine
+2. **[Data Visualization](link)** — [describe what data, what insight]
+3. **Next up: ROS2 navigation stack in Gazebo**
+---
+## I'm looking for:
+→ Research internships in **applied ML, computer vision, or robotics**
+→ Collaboration with anyone building in **ROS2, simulation, or robot perception**
+→ Mentorship from anyone in **autonomous systems or robot learning**
+-> DMs open on (https://linkedin.com/in/adeepthi-2005n)
