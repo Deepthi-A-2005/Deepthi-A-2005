@@ -17,7 +17,7 @@ Hi, I'm Deepthi
 ---
 ## Projects:
 1. **[Basketball RL Simulation](link)** — RL agent optimising trajectory in a physics engine
-2. **[Data Visualization](link)** — [describe what data, what insight]
+2. **[Data Visualization](link)** — Visualized data in the form of charts and maps
 3. **Next up: ROS2 navigation stack in Gazebo**
 ---
 ## I'm looking for:
