@@ -1,8 +1,6 @@
 <!-- Profile README for Deepthi-A-2005 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:A855F7&height=220&section=header&text=A.%20Deepthi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Student%20%7C%20Computer%20Vision%20%26%20Robotics&descSize=20&descAlignY=58" width="100%" alt="header" />
-
 <a href="https://github.com/Deepthi-A-2005">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI;Turning+ideas+into+working+code" alt="Typing SVG" />
 </a>
