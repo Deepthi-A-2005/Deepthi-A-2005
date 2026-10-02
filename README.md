@@ -14,29 +14,6 @@
 
 </div>
 
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100"><a href="https://linkedin.com/in/adeepthi-2005n"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn" /></a><br /><sub><b>LinkedIn</b></sub></td>
-    <td align="center" width="100"><a href="https://github.com/Deepthi-A-2005"><img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /></a><br /><sub><b>GitHub</b></sub></td>
-    <td align="center" width="100"><a href="mailto:deepthia2005@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email" /></a><br /><sub><b>Email</b></sub></td>
-    <td align="center" width="100"><a href="YOUR_INSTAGRAM_URL"><img src="https://cdn.simpleicons.org/instagram/A78BFA" width="55" height="55" alt="Instagram" /></a><br /><sub><b>Instagram</b></sub></td>
-    <td align="center" width="100"><a href="YOUR_DISCORD_INVITE_LINK"><img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55" alt="Discord" /></a><br /><sub><b>Discord</b></sub></td>
-    <td align="center" width="100"><a href="YOUR_PORTFOLIO_URL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio" /></a><br /><sub><b>Portfolio</b></sub></td>
-    <td align="center" width="100"><a href="YOUR_KAGGLE_URL"><img src="https://cdn.simpleicons.org/kaggle/A78BFA" width="55" height="55" alt="Kaggle" /></a><br /><sub><b>Kaggle</b></sub></td>
-    <td align="center" width="100"><a href="YOUR_RESUME_LINK"><img src="https://cdn.simpleicons.org/googledocs/A78BFA" width="55" height="55" alt="Resume" /></a><br /><sub><b>Resume</b></sub></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -93,16 +70,6 @@
   </tr>
 </table>
 
-### Cloud & Infra
-
-<table>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/ros/A78BFA" width="55" height="55" alt="ROS2" /><br /><sub><b>ROS2</b></sub></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
-  </tr>
-</table>
-
 ### Databases
 
 <table>
@@ -122,19 +89,6 @@
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
   </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepthi-A-2005&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&bg_color=1a1b27" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-A-2005&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&bg_color=1a1b27" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Deepthi-A-2005&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=1a1b27" alt="Streak stats" />
 
 </div>
 
