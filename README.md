@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI;Turning+ideas+into+working+code" alt="Typing SVG" />
 </a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Deepthi-A-2005&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Deepthi-A-2005?label=Followers&style=for-the-badge&color=A78BFA&labelColor=1a1b27" alt="Followers" />
-
-</div>
 
 ## 🛠️ Tech Stack
 
