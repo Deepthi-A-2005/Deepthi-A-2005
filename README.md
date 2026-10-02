@@ -92,15 +92,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepthi-A-2005&theme=tokyo-night&hide_border=true&color=A78BFA&line=8B5CF6&point=ffffff" width="100%" alt="Contribution graph" />
-
-</div>
-
----
 
 <div align="center">
 
