@@ -16,4 +16,5 @@ Python · Scikit-learn · NLTK · PyTorch · CrewAI · Git
 ## Looking for
 AI/ML and NLP internships and research opportunities.
 
-📫 deepthia2005@gmail.com · [LinkedIn](https://linkedin.com/in/a-deepthi-2005)
+📫 deepthia2005@gmail.com · [LinkedIn](www.linkedin.com/in/
+a-deepthi-2005n)
